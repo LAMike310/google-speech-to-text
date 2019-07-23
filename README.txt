@@ -39,7 +39,7 @@ To run transcription script add .mp4 files to a specified directory
 
 Then run:
 
-    python autorun.py /path/to/directory/
+    python auto_run.py /path/to/directory/
 
 The script will automatically strip the audio files from the video and convert them to .ogg format
 
